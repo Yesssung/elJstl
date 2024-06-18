@@ -18,7 +18,7 @@ http://localhost:8080/elJstl-live/table.jsp?r=5&c=3
 	if( col == null ) {
 		nCol = 3;
 	} else {
-		nCol = Integer.parseInt( col );
+		nCol = Integer.parseInt( col ); 
 	}	
 %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
